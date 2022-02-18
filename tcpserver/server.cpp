@@ -44,6 +44,8 @@ int main(int argc, char* argv[])
     grp1.push_back(p1);
     //geste->afficherGroup("group1",cout);
     //geste->afficherMulti("photo3",cout);
+    //geste->findMultiP()
+    //geste->findGroupP()
     //geste->jouerMulti("video3");
 
 
@@ -67,16 +69,41 @@ int main(int argc, char* argv[])
     std::stringstream ss;
     ss<<request;
 
-    std::string cm,nom,file;
+    std::string cm,nom;
 
-    ss>>cm>>nom>>file;
+    ss>>cm>>nom;
 
-    if (cm=="rechercher")
+    if (cm=="RechercherMultimedia"){
+      MultimediaPtr m = geste->findMultiP(nom);
+      response = nom+"found in server";
+    }
+    else if (cm=="RechercherGroup"){
+      GroupPtr g = geste->findGroupP(nom);
+      response = nom+"found in server";
+    }
+    else if(cm =="AfficherMultimedia"){
+      std::stringstream s;
+      geste->afficherMulti(nom,s);
+      response = "The Multimedia is: "+s.str();
+     
+ 
+    }
+    else if(cm =="AfficherGroup"){
+      std::stringstream s;
+      geste->afficherMulti(nom,s);
+      response = "The Multimedia is: "+s.str();
+     
+
+    }
+    else if(cm=="JouerMultimedia"){
+      geste->jouerMulti(nom);
+      response = nom+"played in the server";
+    }
 
 
 
     // the response that the server sends back to the client
-    response = "RECEIVED: " + request;
+    
 
     // return false would close the connecytion with the client
     return true;

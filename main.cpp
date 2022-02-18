@@ -9,6 +9,7 @@
 #include "video.h"
 #include "film.h"
 #include "group.h"
+#include <sstream>
 #include <list>
 #include "gestionnaire.h"
 
@@ -41,6 +42,7 @@ int main(int argc, const char* argv[] )
 
     //delete [] multimedias;
     //    delete base_multimedia;
+    /*
     MultimediaPtr v1(new Video("video1","/cal/exterieurs/yang-21/INF224/medias/videos/video1"));  //shared_ptr did not to be manually deleted
     MultimediaPtr p1(new Photo("photo1","/cal/exterieurs/yang-21/INF224/medias/photos/photo1"));
 
@@ -69,7 +71,14 @@ int main(int argc, const char* argv[] )
 
     delete geste;
 
+*/
 
+    stringstream ss;
+    ss<<"abc b";
+    string a = "YANG";
+    a+=ss.str();
+    
+    cout<<a<<endl;
 
     return 0;
 }

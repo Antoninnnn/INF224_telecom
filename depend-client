@@ -1,0 +1,2 @@
+client.o: tcpserver/client.cpp tcpserver/ccsocket.h
+ccsocket.o: tcpserver/ccsocket.cpp tcpserver/ccsocket.h
