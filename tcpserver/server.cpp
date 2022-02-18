@@ -9,6 +9,7 @@
 #include <iostream>
 #include <sstream>
 #include "tcpserver.h"
+#include "../gestionnaire.h"
 
 const int PORT = 3331;
 
