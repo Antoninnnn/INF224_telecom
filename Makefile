@@ -21,9 +21,9 @@ CLISERV=cliserv
 # Fichiers sources (NE PAS METTRE les .h ni les .o seulement les .cpp)
 #
 SOURCES = multimedia.cpp main.cpp
-CLIENT_SOURCES=tcpserver/client.cpp tcpserver/ccsocket.cpp 
-SERVER_SOURCES=tcpserver/server.cpp tcpserver/tcpserver.cpp tcpserver/ccsocket.cpp 
-CLISERV_SOURCES=tcpserver/client.cpp tcpserver/server.cpp tcpserver/tcpserver.cpp tcpserver/ccsocket.cpp tcpserver/Makefile-cliserv
+CLIENT_SOURCES=multimedia.cpp tcpserver/client.cpp tcpserver/ccsocket.cpp 
+SERVER_SOURCES=multimedia.cpp tcpserver/server.cpp tcpserver/tcpserver.cpp tcpserver/ccsocket.cpp 
+CLISERV_SOURCES=multimedia.cpp tcpserver/client.cpp tcpserver/server.cpp tcpserver/tcpserver.cpp tcpserver/ccsocket.cpp tcpserver/Makefile-cliserv
 
 
 

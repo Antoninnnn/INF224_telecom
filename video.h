@@ -30,8 +30,8 @@ public:
     }
     void affichage(ostream& ostream) const override
     {
-        Multimedia::affichage(ostream);
-        ostream <<  "duree:" << duree << endl;
+        //Multimedia::affichage(ostream);
+        ostream << "name:" << nom << "path:" << nom_du_fichier << "duree:" << duree << endl;
     }
     void jouer() const override{
         string cmd = "mpv "+nom_du_fichier + " &";

@@ -12,11 +12,7 @@
 #include "../gestionnaire.h"
 
 
-#include "../multimedia.h"
-#include "../photo.h"
-#include "../video.h"
-#include "../film.h"
-#include "../group.h"
+
 #include <list>
 
 const int PORT = 3331;

@@ -1,8 +1,0 @@
-server.o: tcpserver/server.cpp tcpserver/tcpserver.h tcpserver/ccsocket.h \
- tcpserver/../gestionnaire.h tcpserver/../multimedia.h \
- tcpserver/../photo.h tcpserver/../film.h tcpserver/../video.h \
- tcpserver/../group.h tcpserver/../multimedia.h tcpserver/../photo.h \
- tcpserver/../video.h tcpserver/../film.h tcpserver/../group.h
-tcpserver.o: tcpserver/tcpserver.cpp tcpserver/tcpserver.h \
- tcpserver/ccsocket.h
-ccsocket.o: tcpserver/ccsocket.cpp tcpserver/ccsocket.h

@@ -37,8 +37,8 @@ public:
     }
     void affichage(ostream& ostream) const override
     {
-        Multimedia::affichage(ostream);
-        ostream << "latitude:" << latitude << "longitude:" << longetitude << endl;
+        //Multimedia::affichage(ostream);
+        ostream << "name:" << nom << "path:" << nom_du_fichier << "latitude:" << latitude << "longitude:" << longetitude << endl;
     }
     void jouer() const override{
         string cmd = "imagej "+nom_du_fichier + " &";

@@ -2,6 +2,7 @@
 #define MULTIMEDIA_H
 #include <iostream>
 #include <string>
+#include "multimedia.h"
 //#include <memory>
 
 using namespace std;
@@ -15,7 +16,7 @@ protected:
 public:
     Multimedia();
     Multimedia(string _nom,string nom_du_fichier);
-    virtual ~Multimedia() =0;
+    virtual ~Multimedia();
     string getNom() const;
     string getNomDuFichier() const;
     void setNom(string);
