@@ -21,8 +21,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## RemoteSwing
 The java client implementation with GUI (By java Swing).
 
-## src
-The java swing test and exploration.
+
 
 
 ## personalized note:
