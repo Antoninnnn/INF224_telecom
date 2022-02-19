@@ -16,6 +16,8 @@ protected:
 public:
     Multimedia();
     Multimedia(string _nom,string nom_du_fichier);
+    Multimedia(const Multimedia&);
+    Multimedia& operator=(const Multimedia&);
     virtual ~Multimedia();
     string getNom() const;
     string getNomDuFichier() const;

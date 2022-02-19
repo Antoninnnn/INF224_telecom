@@ -24,8 +24,23 @@ public:
         durees = new int[n_chap];
         copy(d, d+n,durees);
     }
-    Film(const Film& f);
-    Film& operator=(const Film& f);
+    Film(const Film& f):Video(f){
+        n_chap = f.n_chap;
+        durees = f.durees? new int(*f.durees):nullptr;
+
+    };
+    Film& operator=(const Film& f){
+        Video::operator=(f);
+        n_chap = f.n_chap;
+        if (durees&&f.durees) *durees = *f.durees;
+        else{
+            delete [] durees;
+            durees = f.durees? new int(*f.durees):nullptr;
+
+        }
+        return *this;
+
+    };
 
     ~Film() override{
         delete [] durees;
@@ -49,7 +64,11 @@ public:
     void affichage(ostream& ostream) const override
     {
         Multimedia::affichage(ostream);
-        ostream <<  "duree:" << durees << endl;
+        ostream <<  " duree:" << duree << " nombre de chapitre: "<< n_chap <<" duree de chapitre:[" ;
+        for (int i =0;i<n_chap;i++)
+            ostream<<durees[i]<<"," ;
+            
+        ostream<< "]"<<endl;
     }
 };
 

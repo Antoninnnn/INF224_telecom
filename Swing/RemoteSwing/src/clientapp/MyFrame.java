@@ -1,14 +1,16 @@
-import javax.swing.*;
-import javax.swing.text.LabelView;
+package clientapp;
 
+
+import javax.swing.*;
+import clientapp.Client;
 import java.awt.LayoutManager;
 import java.awt.event.*;
 import java.awt.*;
+import java.io.*;
 
-//import Client.*;
 
 public class MyFrame extends JFrame{
-	String s_cmd = "";
+    String s_cmd = "";
     JLabel opMessage = null;
 
     ButtonGroup buttonGroup = null;
@@ -18,7 +20,7 @@ public class MyFrame extends JFrame{
     JRadioButton rdo4 = null;
     JRadioButton rdo5 = null;
     
-    JButton button1 = null;
+	JButton button1 = null;
 	JButton button2 = null;
 	JButton button3 = null;
 	JPanel pane  = null;
@@ -32,17 +34,52 @@ public class MyFrame extends JFrame{
 
 
 	private static final long serialVersionUID = 1L;
-	String phrase1 = "Bonjour, Je suis Antonin de télécom paris!!!!\n";
-	String phrase2 = "This is the remote client where you can send your command to the server.\n";
+    private static final String DEFAULT_HOST ="localhost";
+    private static final int DEFAULT_PORT = 3331;
+	String phrase1 = "bonjour111, Je suis Antonin de télécom paris!!!!";
+	String phrase2 = "bonjour222, je suis Yining YANG de SJTU!!!";
 	
 
 	public static void main(String argv[ ]) {
-		MyFrame toplevel = new MyFrame(); // en gris : optionnel
+
+
+        Client client = null;
+        String response = "";
+        
+        String host = DEFAULT_HOST;
+        int port = DEFAULT_PORT;
+        try {
+          client = new Client(host, port);
+        }
+        catch (Exception e) {
+          System.err.println("Client: Couldn't connect to "+host+":"+port);
+          System.exit(1);
+        }
+            
+        System.out.println("Client connected to "+host+":"+port);
+        MyFrame toplevel = new MyFrame(client); // en gris : optionnel
 		toplevel.setVisible(true);
 		toplevel.setTitle("My Frame");
-	}
-	public MyFrame() {
 
+    // pour lire depuis la console
+    /*
+        BufferedReader cin = new BufferedReader(new InputStreamReader(toplevel.txta.getText()));
+    
+        while (true) {
+        System.out.print("Request: ");
+        try {
+            String request = cin.readLine();
+            String response = client.send(request);
+            System.out.println("Response: " + response);
+            }
+        catch (java.io.IOException e) {
+            System.err.println("Client: IO error");
+            return;
+            }
+        }*/
+
+	}
+	public MyFrame(Client client) {
         opMessage = new JLabel("Choose your operation");
 
         buttonGroup = new ButtonGroup();
@@ -101,6 +138,8 @@ public class MyFrame extends JFrame{
             s_cmd = s_cmd+" "+txtfield.getText()+"\n";
             System.out.println("Command sent is: "+s_cmd);
             txta.append(s_cmd);
+            String response = client.send(s_cmd);
+            System.out.println("Message returned: "+response);
             s_cmd="";
             //request = s_cmd
         });

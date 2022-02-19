@@ -43,8 +43,18 @@ public:
         mtable[_nom] = v;
         return *v;
     }
+    Video createVideo(string _nom, string _nom_du_fichier,float d){
+        VideoPtr v(new Video(_nom,_nom_du_fichier,d));
+        mtable[_nom] = v;
+        return *v;
+    }
     Film createFilm(string _nom, string _nom_du_fichier){
         FilmPtr f(new Film(_nom,_nom_du_fichier));
+        mtable[_nom] = f;
+        return *f;
+    }
+    Film createFilm(string _nom, string _nom_du_fichier,int * d , unsigned int n){
+        FilmPtr f(new Film(_nom,_nom_du_fichier,d,n));
         mtable[_nom] = f;
         return *f;
     }

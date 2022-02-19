@@ -35,6 +35,9 @@ int main(int argc, char* argv[])
 
     Video v2= geste->createVideo("video2","/cal/exterieurs/yang-21/INF224/media/videos/video2");
     Video v3= geste->createVideo("video3","/cal/exterieurs/yang-21/INF224/media/videos/video3");
+    int durs[4] = {5,5,5,3};
+    unsigned int n_durs = 4;
+    Film f1 = geste->createFilm("film1","/cal/exterieurs/yang-21/INF224/media/films/film1",durs,n_durs);
     Group grp1 = geste->createGroup("group1");
     grp1.push_back(v1);
     grp1.push_back(p1);
