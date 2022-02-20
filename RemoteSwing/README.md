@@ -18,10 +18,15 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 
+## RemoteSwing
+The java client implementation with GUI (By java Swing).
+
 
 
 
 ## personalized note:
 
-place yourself in the folder ./INF224/Swing/Remote/src
-enter make run
+>place yourself in the folder ./INF224/Swing/Remote/src
+
+>enter make run
+Then the client GUI will occur.
