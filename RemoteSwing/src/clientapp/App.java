@@ -4,6 +4,10 @@ import clientapp.*;
 import java.io.*;
 import java.net.*;
 */
+
+/**
+ * The file is not useful, just for test
+ */
 public class App {
     public static final String DEFAULT_HOST = "localhost";
     public static final int DEFAULT_PORT = 3331;

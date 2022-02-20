@@ -1,7 +1,13 @@
-//
-// main.cpp
-// Created on 01/01/2022
-//
+/**
+ * @file main.cpp
+ * @author YANG_Yining (yining.yang@telecom-paris.fr)
+ * @brief main for test on the data structures.
+ * @version 0.1
+ * @date 2022-02-20
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 
 #include <iostream>
 #include "multimedia.h"
@@ -16,13 +22,22 @@
 using namespace std;
 
 
-// to compile the code, use make to compile
-// to run the code use make run
 
 
+/**
+ * @brief main function for test
+ * 
+ * @param argc 
+ * @param argv 
+ * @return int 
+ */
 int main(int argc, const char* argv[] )
 {
 //    Multimedia * base_multimedia = new Multimedia("first_class","/cal/exterieurs/yang-21/INF224/base_multimedia");
+/**
+ * @brief this part is for the multimedia pointer array test
+ * 
+ */
 
 /*
     Multimedia ** multimedias = new Multimedia *[10];
@@ -35,13 +50,17 @@ int main(int argc, const char* argv[] )
     multimedias[count++]  = new Photo("photo3","/cal/exterieurs/yang-21/INF224/medias/photos/photo3");
     multimedias[count++]  = new Photo("photo4","/cal/exterieurs/yang-21/INF224/medias/photos/photo4");
     multimedias[count++]  = new Photo("photo5","/cal/exterieurs/yang-21/INF224/medias/photos/photo5");
-    cout<< count<<endl;*/
+    cout<< count<<endl;
 
-//    std::cout << "Hello brave new world" << std::endl;
+    std::cout << "Hello brave new world" << std::endl;
 
 
-    //delete [] multimedias;
-    //    delete base_multimedia;
+    delete [] multimedias;
+    delete base_multimedia;*/
+    /**
+     * @brief This part is for the group and gestionnire test
+     * 
+     */
     /*
     MultimediaPtr v1(new Video("video1","/cal/exterieurs/yang-21/INF224/medias/videos/video1"));  //shared_ptr did not to be manually deleted
     MultimediaPtr p1(new Photo("photo1","/cal/exterieurs/yang-21/INF224/medias/photos/photo1"));
@@ -55,6 +74,7 @@ int main(int argc, const char* argv[] )
     Photo p3= geste->createPhoto("photo3","/cal/exterieurs/yang-21/INF224/media/photos/photo3");
     Video v2= geste->createVideo("video2","/cal/exterieurs/yang-21/INF224/media/videos/video2");
     Video v3= geste->createVideo("video3","/cal/exterieurs/yang-21/INF224/media/videos/video3");
+    Film f1 = geste->createFilm("film1","/cal/exterieurs/yang-21/INF224/media/films/film1")
     Group grp1 = geste->createGroup("group1");
     grp1.push_back(v1);
     grp1.push_back(p1);
@@ -73,12 +93,19 @@ int main(int argc, const char* argv[] )
 
 */
 
+/**
+ * @brief This part is for the stringstream test.
+ * 
+ */
+
+
+/*
     stringstream ss;
     ss<<"abc b";
     string a = "YANG";
     a+=ss.str();
     
-    cout<<a<<endl;
+    cout<<a<<endl;*/
 
     return 0;
 }

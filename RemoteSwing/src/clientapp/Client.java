@@ -2,11 +2,16 @@
 // Client Java pour communiquer avec le Serveur C++ 
 // eric lecolinet - telecom paristech - 2015
 //
+
 package clientapp;
 import java.io.*;
 import java.net.*;
 import clientapp.*;
 
+/**
+ * @class <Client>
+ * @brief The client implementation in JAVA
+ */
 public class Client
 {
   private static final long serialVersionUID = 1L;

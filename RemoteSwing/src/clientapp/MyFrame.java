@@ -9,6 +9,10 @@ import java.awt.*;
 import java.io.*;
 
 
+/**
+ * @class <MyFrame>
+ * @brief The GUI for the client operation and request.
+ */
 public class MyFrame extends JFrame{
     String s_cmd = "";
     JLabel opMessage = null;

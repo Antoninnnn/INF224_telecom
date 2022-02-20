@@ -60,6 +60,10 @@ int main(int argc, char* argv[])
   
   
   auto* server =
+  /**
+   * @brief We implemenet abstract class for the TCPServer
+   * 
+   */
   new TCPServer( [&](std::string const& request, std::string& response) {
 
     // the request sent by the client to the server
