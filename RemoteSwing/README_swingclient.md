@@ -21,4 +21,10 @@ make clean
 ```
 
 ## GUI Structure
+<img width="1061" alt="GUIdemo" src="https://user-images.githubusercontent.com/49087409/154851287-10ce0f03-63a7-40cc-aa24-0a1450fab65d.png">
+
+## The result demo
+<img width="895" alt="return_mes" src="https://user-images.githubusercontent.com/49087409/154851347-ba7f0625-627a-41ed-be95-82e41a87e043.png">
+
+## 
 
