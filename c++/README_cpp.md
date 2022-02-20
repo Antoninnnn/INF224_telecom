@@ -1,5 +1,5 @@
 # c++
-The folder contains the Multimedia management system. The class defined are `Multimedia`, `Photo`, `Video`, `Film`, `Group`, and `Gestionnaire`. For more information, please check the folder `htmp_cpp` and  launch the `index.html` to get more details for the system.
+The folder contains the Multimedia management system. The class defined are `Multimedia`, `Photo`, `Video`, `Film`, `Group`, and `Gestionnaire`. For more information, please check the folder `../htmp_cpp` and  launch the `index.html` to get more details for the system.
 
 Instructions to makefile and run the server (from the root folder)
 ```

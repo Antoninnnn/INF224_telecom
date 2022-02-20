@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="c++"><param name="Local" value="md_README_cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Film"><param name="Local" value="classFilm.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Film"><param name="Local" value="classFilm.html#af2835db2b0ef3a87aaa3222f4d9d1ae3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Film"><param name="Local" value="classFilm.html#a3a82d838bdf70ecefbb4f6fcabd2f154"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Film"><param name="Local" value="classFilm.html#a00e4273e834a9b30f43749621c980dbe"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Film"><param name="Local" value="classFilm.html#afac538defd004b6e638f7cc7fdeb41cd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~Film"><param name="Local" value="classFilm.html#af6bfc1299bce347dfc6e336b8ccec3f1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="affichage"><param name="Local" value="classFilm.html#a7c8a0f538825aa6d4b74f80e272ecd7c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getDuree"><param name="Local" value="classFilm.html#a53da746edabd427ecf13f22d67d238ea"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="classFilm.html#ab65a73aad2f6e6437b881fce08cb63d8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setDuree"><param name="Local" value="classFilm.html#abf0ac7957553e17008ba5caf8e294d35"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Gestionnaire"><param name="Local" value="classGestionnaire.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Gestionnaire"><param name="Local" value="classGestionnaire.html#a1c8e4ce6ef439faab8c9db3f92df6bc8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~Gestionnaire"><param name="Local" value="classGestionnaire.html#a39a3280ade948b6a1c08d113dcc7f375"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="afficherGroup"><param name="Local" value="classGestionnaire.html#a65754346bda7a51259b26d76e119ee5d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="afficherMulti"><param name="Local" value="classGestionnaire.html#a9881a8645487f1f33310aa4d97cfe5e9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createFilm"><param name="Local" value="classGestionnaire.html#ae7f48d4047d9c7c8f9f11285f290ce6b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createFilm"><param name="Local" value="classGestionnaire.html#a6ff2ecdbe7c1db8a6d1b34e55cdba946"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createGroup"><param name="Local" value="classGestionnaire.html#a291c8a4ccc8da03b58eab4276e39effe"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createPhoto"><param name="Local" value="classGestionnaire.html#ab215ab6cfba836c05c2051900b658c16"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createVideo"><param name="Local" value="classGestionnaire.html#a3192f956a29b5fa98e529ffb1381fef7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createVideo"><param name="Local" value="classGestionnaire.html#a2e7e0ee36932d8992ca8bfc20e14b129"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="findGroupP"><param name="Local" value="classGestionnaire.html#a3772c0d0fb6ad0298b222a16f27ed2c1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="findMultiP"><param name="Local" value="classGestionnaire.html#adf049861ef9192101ecabe89d468b4bb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="jouerMulti"><param name="Local" value="classGestionnaire.html#a32e90730fd726dcda95939acc4bcad91"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="suprimerGroupP"><param name="Local" value="classGestionnaire.html#a1b8cad1273821c01b7a3e29863173fb6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="suprimerMultiP"><param name="Local" value="classGestionnaire.html#a491abd1d2ec6d324ff478f2a28019f98"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Group"><param name="Local" value="classGroup.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Group"><param name="Local" value="classGroup.html#a7b74f9ac68e0504ccf2e2854b7355ff1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Group"><param name="Local" value="classGroup.html#a6fc4688d7645b2bd06765ebac24f13b5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~Group"><param name="Local" value="classGroup.html#aed00a22ff227ee2657ae44a5cbcedf7c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="affichage"><param name="Local" value="classGroup.html#a0e5490f59c625d35cd2cadd7e39bfdfa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getNom"><param name="Local" value="classGroup.html#a41b0c621221ecc282638eb3617ee8ae2"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Multimedia"><param name="Local" value="classMultimedia.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Multimedia"><param name="Local" value="classMultimedia.html#a7106753d618df92d53b89328b7ecfe7f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Multimedia"><param name="Local" value="classMultimedia.html#a5b6563458d475f8606f65a085ce7c699"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Multimedia"><param name="Local" value="classMultimedia.html#a4eccb62497a4eb02193b90857939a6bb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~Multimedia"><param name="Local" value="classMultimedia.html#ab280f9ce1d0a1291c9b1ab876e854c94"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="affichage"><param name="Local" value="classMultimedia.html#a9a7b9922eb634ba96871cde43cf0c449"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getNom"><param name="Local" value="classMultimedia.html#a8f25330477116bc336c2f11ef08649ed"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getNomDuFichier"><param name="Local" value="classMultimedia.html#a66f9ca328033816be4829b31d5bb1430"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="jouer"><param name="Local" value="classMultimedia.html#af8e041ff12c7439019a491a4fc863110"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="classMultimedia.html#a1eabdd87ffbe351d8ec4fb67a7ec2f65"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setNom"><param name="Local" value="classMultimedia.html#a7bfec24bd90594b9a566d8bd0a8cb50a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setNomDuFichier"><param name="Local" value="classMultimedia.html#a6cb83a1f60852d9f8a42d3e6a7b2e1fe"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="nom"><param name="Local" value="classMultimedia.html#ab537575ae376fa3485f308e8c0f59a1b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="nom_du_fichier"><param name="Local" value="classMultimedia.html#afe8277f0f9dc78d6d8afcd833c021b6b"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Photo"><param name="Local" value="classPhoto.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Photo"><param name="Local" value="classPhoto.html#a10ef03ede9235052eb9f7d5e950f85d3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Photo"><param name="Local" value="classPhoto.html#aa2d2f94b36b58f5691211c873ee5100e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Photo"><param name="Local" value="classPhoto.html#a5264feeb58b36cbfea9e8b83d1e35c14"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~Photo"><param name="Local" value="classPhoto.html#aa9fcb04e09aa2871abd73bc2088d5dfd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="affichage"><param name="Local" value="classPhoto.html#af5672347c480e0e0f6360710637f02e5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getLatitude"><param name="Local" value="classPhoto.html#a6fea6c5d77531c4ca75683ba4a721837"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getLongetitude"><param name="Local" value="classPhoto.html#a6d910e9bc66d9213d748402ea3c5d5c3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="jouer"><param name="Local" value="classPhoto.html#a1a1d70a0906bda3edfff9339e47802f5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setLatitude"><param name="Local" value="classPhoto.html#af6f7b1e5e5c6f3e36b56e51ba0d5dd99"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setLongetitude"><param name="Local" value="classPhoto.html#a72ef8937c6cd75f8768103a407a7e4a6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="latitude"><param name="Local" value="classPhoto.html#a84ef68e349f607d0fcff610eead66156"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="longetitude"><param name="Local" value="classPhoto.html#ae0da268dc9f3db7a251eaa429b5332a0"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Video"><param name="Local" value="classVideo.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Video"><param name="Local" value="classVideo.html#ab67336c2c5b6227a9635bc7dcd6af543"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Video"><param name="Local" value="classVideo.html#a9f67f7f5a6ac41f1d9060c70e5227a32"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Video"><param name="Local" value="classVideo.html#a995e593705d27dacb33a9ea044f6706d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Video"><param name="Local" value="classVideo.html#aad3ac98980a0fab221f4b08a771bfde0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~Video"><param name="Local" value="classVideo.html#a3dab275f0fa395bdeaaeb42b83d689c1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="affichage"><param name="Local" value="classVideo.html#af30baedd59f9e599bb7fbb8848002f5d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getDuree"><param name="Local" value="classVideo.html#a05dbdd7c141c64cc49e5b84368117846"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="jouer"><param name="Local" value="classVideo.html#abef3a97522b97878657ccc1eabd0af48"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="classVideo.html#a4c239b09f570f77591bdc648117ca5d5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setDuree"><param name="Local" value="classVideo.html#ace88d582c39ccc1f98c8f04e633596ec"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="duree"><param name="Local" value="classVideo.html#a04c0947ae189f005123381765f4e2960"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Gestionnaire"><param name="Local" value="classGestionnaire.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="list"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Group"><param name="Local" value="classGroup.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Multimedia"><param name="Local" value="classMultimedia.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Photo"><param name="Local" value="classPhoto.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Video"><param name="Local" value="classVideo.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Film"><param name="Local" value="classFilm.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="film.h"><param name="Local" value="film_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Film"><param name="Local" value="classFilm.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Film"><param name="Local" value="classFilm.html#af2835db2b0ef3a87aaa3222f4d9d1ae3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Film"><param name="Local" value="classFilm.html#a3a82d838bdf70ecefbb4f6fcabd2f154"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Film"><param name="Local" value="classFilm.html#a00e4273e834a9b30f43749621c980dbe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Film"><param name="Local" value="classFilm.html#afac538defd004b6e638f7cc7fdeb41cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~Film"><param name="Local" value="classFilm.html#af6bfc1299bce347dfc6e336b8ccec3f1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="affichage"><param name="Local" value="classFilm.html#a7c8a0f538825aa6d4b74f80e272ecd7c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getDuree"><param name="Local" value="classFilm.html#a53da746edabd427ecf13f22d67d238ea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="classFilm.html#ab65a73aad2f6e6437b881fce08cb63d8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setDuree"><param name="Local" value="classFilm.html#abf0ac7957553e17008ba5caf8e294d35"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FilmPtr"><param name="Local" value="film_8h.html#a95479a8681b5ccc0cb90e382f0016afd"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gestionnaire.h"><param name="Local" value="gestionnaire_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Gestionnaire"><param name="Local" value="classGestionnaire.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Gestionnaire"><param name="Local" value="classGestionnaire.html#a1c8e4ce6ef439faab8c9db3f92df6bc8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~Gestionnaire"><param name="Local" value="classGestionnaire.html#a39a3280ade948b6a1c08d113dcc7f375"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="afficherGroup"><param name="Local" value="classGestionnaire.html#a65754346bda7a51259b26d76e119ee5d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="afficherMulti"><param name="Local" value="classGestionnaire.html#a9881a8645487f1f33310aa4d97cfe5e9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="createFilm"><param name="Local" value="classGestionnaire.html#ae7f48d4047d9c7c8f9f11285f290ce6b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="createFilm"><param name="Local" value="classGestionnaire.html#a6ff2ecdbe7c1db8a6d1b34e55cdba946"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="createGroup"><param name="Local" value="classGestionnaire.html#a291c8a4ccc8da03b58eab4276e39effe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="createPhoto"><param name="Local" value="classGestionnaire.html#ab215ab6cfba836c05c2051900b658c16"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="createVideo"><param name="Local" value="classGestionnaire.html#a3192f956a29b5fa98e529ffb1381fef7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="createVideo"><param name="Local" value="classGestionnaire.html#a2e7e0ee36932d8992ca8bfc20e14b129"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="findGroupP"><param name="Local" value="classGestionnaire.html#a3772c0d0fb6ad0298b222a16f27ed2c1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="findMultiP"><param name="Local" value="classGestionnaire.html#adf049861ef9192101ecabe89d468b4bb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="jouerMulti"><param name="Local" value="classGestionnaire.html#a32e90730fd726dcda95939acc4bcad91"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="suprimerGroupP"><param name="Local" value="classGestionnaire.html#a1b8cad1273821c01b7a3e29863173fb6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="suprimerMultiP"><param name="Local" value="classGestionnaire.html#a491abd1d2ec6d324ff478f2a28019f98"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GroupDict"><param name="Local" value="gestionnaire_8h.html#a82a393a9436bce38ddabd6e011769ef6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GroupPtr"><param name="Local" value="gestionnaire_8h.html#a3bb63c6ebb2c918549bf87bf62faec11"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultimediaDict"><param name="Local" value="gestionnaire_8h.html#a6242a9ceb211113c4282fcee30fcaf97"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PhotoDict"><param name="Local" value="gestionnaire_8h.html#ae3f287882efdac8cb10369324828f9f9"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="group.h"><param name="Local" value="group_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Group"><param name="Local" value="classGroup.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Group"><param name="Local" value="classGroup.html#a7b74f9ac68e0504ccf2e2854b7355ff1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Group"><param name="Local" value="classGroup.html#a6fc4688d7645b2bd06765ebac24f13b5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~Group"><param name="Local" value="classGroup.html#aed00a22ff227ee2657ae44a5cbcedf7c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="affichage"><param name="Local" value="classGroup.html#a0e5490f59c625d35cd2cadd7e39bfdfa"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getNom"><param name="Local" value="classGroup.html#a41b0c621221ecc282638eb3617ee8ae2"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultimediaPtr"><param name="Local" value="group_8h.html#a23dc79e4298a2339e003dab831e783ba"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="main.cpp"><param name="Local" value="main_8cpp.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="main"><param name="Local" value="main_8cpp.html#ac0f2228420376f4db7e1274f2b41667c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="multimedia.cpp"><param name="Local" value="multimedia_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="multimedia.h"><param name="Local" value="multimedia_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Multimedia"><param name="Local" value="classMultimedia.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Multimedia"><param name="Local" value="classMultimedia.html#a7106753d618df92d53b89328b7ecfe7f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Multimedia"><param name="Local" value="classMultimedia.html#a5b6563458d475f8606f65a085ce7c699"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Multimedia"><param name="Local" value="classMultimedia.html#a4eccb62497a4eb02193b90857939a6bb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~Multimedia"><param name="Local" value="classMultimedia.html#ab280f9ce1d0a1291c9b1ab876e854c94"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="affichage"><param name="Local" value="classMultimedia.html#a9a7b9922eb634ba96871cde43cf0c449"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getNom"><param name="Local" value="classMultimedia.html#a8f25330477116bc336c2f11ef08649ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getNomDuFichier"><param name="Local" value="classMultimedia.html#a66f9ca328033816be4829b31d5bb1430"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="jouer"><param name="Local" value="classMultimedia.html#af8e041ff12c7439019a491a4fc863110"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="classMultimedia.html#a1eabdd87ffbe351d8ec4fb67a7ec2f65"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setNom"><param name="Local" value="classMultimedia.html#a7bfec24bd90594b9a566d8bd0a8cb50a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setNomDuFichier"><param name="Local" value="classMultimedia.html#a6cb83a1f60852d9f8a42d3e6a7b2e1fe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="nom"><param name="Local" value="classMultimedia.html#ab537575ae376fa3485f308e8c0f59a1b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="nom_du_fichier"><param name="Local" value="classMultimedia.html#afe8277f0f9dc78d6d8afcd833c021b6b"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="photo.h"><param name="Local" value="photo_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Photo"><param name="Local" value="classPhoto.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Photo"><param name="Local" value="classPhoto.html#a10ef03ede9235052eb9f7d5e950f85d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Photo"><param name="Local" value="classPhoto.html#aa2d2f94b36b58f5691211c873ee5100e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Photo"><param name="Local" value="classPhoto.html#a5264feeb58b36cbfea9e8b83d1e35c14"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~Photo"><param name="Local" value="classPhoto.html#aa9fcb04e09aa2871abd73bc2088d5dfd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="affichage"><param name="Local" value="classPhoto.html#af5672347c480e0e0f6360710637f02e5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getLatitude"><param name="Local" value="classPhoto.html#a6fea6c5d77531c4ca75683ba4a721837"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getLongetitude"><param name="Local" value="classPhoto.html#a6d910e9bc66d9213d748402ea3c5d5c3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="jouer"><param name="Local" value="classPhoto.html#a1a1d70a0906bda3edfff9339e47802f5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setLatitude"><param name="Local" value="classPhoto.html#af6f7b1e5e5c6f3e36b56e51ba0d5dd99"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setLongetitude"><param name="Local" value="classPhoto.html#a72ef8937c6cd75f8768103a407a7e4a6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="latitude"><param name="Local" value="classPhoto.html#a84ef68e349f607d0fcff610eead66156"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="longetitude"><param name="Local" value="classPhoto.html#ae0da268dc9f3db7a251eaa429b5332a0"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PhotoPtr"><param name="Local" value="photo_8h.html#ad54810cc7b6239189c8e75143221347a"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="video.h"><param name="Local" value="video_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Video"><param name="Local" value="classVideo.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Video"><param name="Local" value="classVideo.html#ab67336c2c5b6227a9635bc7dcd6af543"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Video"><param name="Local" value="classVideo.html#a9f67f7f5a6ac41f1d9060c70e5227a32"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Video"><param name="Local" value="classVideo.html#a995e593705d27dacb33a9ea044f6706d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Video"><param name="Local" value="classVideo.html#aad3ac98980a0fab221f4b08a771bfde0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~Video"><param name="Local" value="classVideo.html#a3dab275f0fa395bdeaaeb42b83d689c1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="affichage"><param name="Local" value="classVideo.html#af30baedd59f9e599bb7fbb8848002f5d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getDuree"><param name="Local" value="classVideo.html#a05dbdd7c141c64cc49e5b84368117846"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="jouer"><param name="Local" value="classVideo.html#abef3a97522b97878657ccc1eabd0af48"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="classVideo.html#a4c239b09f570f77591bdc648117ca5d5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setDuree"><param name="Local" value="classVideo.html#ace88d582c39ccc1f98c8f04e633596ec"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="duree"><param name="Local" value="classVideo.html#a04c0947ae189f005123381765f4e2960"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="VideoPtr"><param name="Local" value="video_8h.html#a47425eb8ee9e45477114f29c29bc2f03"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File Members"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

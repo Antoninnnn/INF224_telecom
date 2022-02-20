@@ -1,0 +1,9 @@
+<map id="multimedia.h" name="multimedia.h">
+<area shape="rect" id="node2" href="$film_8h.html" title="The Film class extending the Video class which includes more information than videos. " alt="" coords="30,155,85,182"/>
+<area shape="rect" id="node3" href="$gestionnaire_8h.html" title="The Overral Manager of the Multimedia System. " alt="" coords="101,230,204,257"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="main for test on the data structures. " alt="" coords="68,305,143,331"/>
+<area shape="rect" id="node5" href="$video_8h.html" title="Header file implement all attributes of the Video class which extends from Multimedia. " alt="" coords="72,81,136,107"/>
+<area shape="rect" id="node6" href="$photo_8h.html" title="photo.h" alt="" coords="212,155,277,182"/>
+<area shape="rect" id="node7" href="$group_8h.html" title="group.h" alt="" coords="301,155,366,182"/>
+<area shape="rect" id="node8" href="$multimedia_8cpp.html" title="multimedia.cpp" alt="" coords="313,81,424,107"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="gestionnaire.h" name="gestionnaire.h">
+<area shape="rect" id="node2" href="$multimedia_8h.html" title="The higest origin class for multimedias. " alt="" coords="129,229,225,256"/>
+<area shape="rect" id="node5" href="$photo_8h.html" title="photo.h" alt="" coords="231,155,297,181"/>
+<area shape="rect" id="node8" href="$film_8h.html" title="The Film class extending the Video class which includes more information than videos. " alt="" coords="307,80,362,107"/>
+<area shape="rect" id="node9" href="$video_8h.html" title="Header file implement all attributes of the Video class which extends from Multimedia. " alt="" coords="372,155,436,181"/>
+<area shape="rect" id="node10" href="$group_8h.html" title="group.h" alt="" coords="562,155,627,181"/>
+</map>

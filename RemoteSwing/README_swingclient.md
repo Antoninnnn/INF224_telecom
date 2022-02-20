@@ -1,5 +1,5 @@
 # RemoteSwing
-The java client implementation with GUI (By java Swing).
+The java client implementation with GUI (By java Swing).Check the `../html_swing` and double click the `index.html` for more details of the RemoteSwing documentation.
 
 
 
