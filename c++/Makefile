@@ -4,6 +4,27 @@
 #  Eric Lecolinet - Reda Dehak - Telecom ParisTech 2015
 #  INF224 - TP C++ - http://www.telecom-paristech.fr/~elc/inf224
 #
+#  Implemented and appropriated by Yining YANG
+#
+#
+##########################################
+
+##########################################
+#
+#	Utilisation consigne:
+#	make 
+#	./server
+#
+##########################################
+
+##########################################
+#
+#	Clean consigne:
+#	cd INF224/c++
+#	make clean
+#	cd INF224/c++/tcpserver/
+#	make clean -f Makefile-cliserv
+#
 ##########################################
 
 #
