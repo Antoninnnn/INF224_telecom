@@ -147,12 +147,12 @@ public class MyFrame extends JFrame{
         pnlnom.add(txtfield,BorderLayout.CENTER);
         JButton ok = new JButton("Ok");
         ok.addActionListener(e ->{
-            s_cmd = s_cmd+" "+txtfield.getText()+"\n";
-            System.out.println("Command sent is: "+s_cmd);
-            txta.append(s_cmd);
-            String response = client.send(s_cmd);
-            System.out.println("Message returned: "+response);
-            s_cmd="";
+            s_cmd = s_cmd+" "+txtfield.getText()+"\n"; /**<combine the operation choson with the name of objext to form a complete request */
+            System.out.println("Command sent is: "+s_cmd); /**<print the reequest in the console */ 
+            txta.append(s_cmd); /**<Add the request command to the TextArea*/
+            String response = client.send(s_cmd);  /**<send request and receive response */
+            System.out.println("Message returned: "+response);  /**<Print the response in the console */
+            s_cmd="";/**<reset the request command */
             //request = s_cmd
         });
         pnlnom.add(ok,BorderLayout.SOUTH);
