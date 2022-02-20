@@ -11,7 +11,7 @@ import java.io.*;
 
 /**
  * @class <MyFrame>
- * @brief The GUI for the client operation and request.
+ * @brief The GUI uses the client api and send request.
  */
 public class MyFrame extends JFrame{
     String s_cmd = "";
@@ -43,7 +43,10 @@ public class MyFrame extends JFrame{
 	String phrase1 = "bonjour111, Je suis Antonin de télécom paris!!!!";
 	String phrase2 = "bonjour222, je suis Yining YANG de SJTU!!!";
 	
-
+    /**
+     * 
+     * @param argv
+     */
 	public static void main(String argv[ ]) {
 
 
@@ -83,6 +86,11 @@ public class MyFrame extends JFrame{
         }*/
 
 	}
+
+    /**
+     * @brief constructor
+     * @param client
+     */
 	public MyFrame(Client client) {
         opMessage = new JLabel("Choose your operation");
 
@@ -151,7 +159,7 @@ public class MyFrame extends JFrame{
         
         panecmd.add(pnlnom, BorderLayout.CENTER );
         
-
+        
 		txta = new JTextArea();
 		scrollpane = new JScrollPane(txta);
         scrollpane.setPreferredSize(new Dimension(500,150));
@@ -237,7 +245,10 @@ public class MyFrame extends JFrame{
 			} 
 	}
 
-	    
+	/**
+     * 
+     * @return
+     */
     /* Methode de construction de la barre de menu */
     private JMenuBar createMenuBar() {
 
@@ -280,7 +291,10 @@ public class MyFrame extends JFrame{
         return menuBar;
     }
 
-    /* Methode de construction de la barre d'outils */
+    /**
+     * Methode de construction de la barre d'outils 
+     * 
+     */
     private JToolBar createToolBar() {
         JToolBar toolBar = new JToolBar();
 
@@ -295,7 +309,10 @@ public class MyFrame extends JFrame{
         return toolBar;
     }
 
-    /* Methode de construction du menu contextuel */
+    /**
+     * 
+     * 
+     *  Methode de construction du menu contextuel*/
     private JPopupMenu createPopupMenu() {
         JPopupMenu popupMenu = new JPopupMenu();
         

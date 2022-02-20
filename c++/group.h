@@ -44,11 +44,19 @@ public:
      * 
      */
     Group(){}
+    /**
+     * @brief Construct a new Group object with a name
+     * 
+     * @param _nom 
+     */
+
+    Group(string _nom):nom(_nom){}
     
     /**
      * @brief Destroy the Group object
      * 
      */
+    
     ~Group(){}
     /**
      * @brief Get the Nom object
