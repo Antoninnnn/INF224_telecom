@@ -49,7 +49,7 @@ The ItemEvent for the radiobuttons are:
         System.out.println("operation chosen is "+s_cmd);
         
     }
-```
+```cpp
 where we pass the operation command to the string `s_cmd`
 
 [^3]: which are `rdo1` to `rdo5` .
@@ -69,6 +69,6 @@ We send request after the `ok` button is clicked. When we choose the operation a
             //request = s_cmd
         });
 
-```
+```cpp
 
 
